@@ -1,4 +1,4 @@
-var url = ['https://heylink.me/yenihaberler/'];
+var url = ['https://cutt.ly/2wJ0QTkr'];
 
 var rndMax = 1800;
 var s = Math.floor((Math.random() * rndMax) + 1);
